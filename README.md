@@ -1,1 +1,1 @@
-# BankExercise
+# SampleExercise
